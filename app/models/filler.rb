@@ -1,0 +1,2 @@
+class Filler < ApplicationRecord
+end

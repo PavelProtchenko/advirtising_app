@@ -1,0 +1,2 @@
+class PromotionVideo < ApplicationRecord
+end
